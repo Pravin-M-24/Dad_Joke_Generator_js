@@ -18,4 +18,4 @@ This project is a fun Dad Joke Generator that fetches dad jokes from an external
 - Simple and clean user interface.
 
 ## Live Demo
-   (click here)[]
+   [click here]( https://pravin-m-24.github.io/Dad_Joke_Generator_js/)
