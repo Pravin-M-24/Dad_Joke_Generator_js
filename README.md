@@ -5,7 +5,7 @@ A simple Dad Joke Generator built with JavaScript and making API calls to retrie
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Live Demo](#Live Demo)
+- [Live Demo](#LiveDemo)
 
 ## Introduction
 
